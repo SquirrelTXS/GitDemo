@@ -5,5 +5,6 @@ public class Demo {
         System.out.println("master commit2");
         System.out.println("branch02 commit1");
         System.out.println("branch03 commit1");
+        System.out.println("branch03 commit2");
     }
 }
